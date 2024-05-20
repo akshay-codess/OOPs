@@ -9,6 +9,6 @@ public class Client {
 //        student.name = "jkhfs"
 //        student.batchId = 344;
 //        student psp = 65.33;
-          student.universityName = "Akshay University";
+          student.universityName = "Akshay Universitydhsldk";
     }
 }
