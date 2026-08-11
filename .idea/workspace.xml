@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51274663-73a9-4c7d-b3b6-9e7533379983" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessModifiersCheck/StudentChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructors/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultConstructors/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/defaultConstructors/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/IntelligentStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/DoubleCheckLocking/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/EagerLoading/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/singleThreaded/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inhertance/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intoToOop/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intoToOop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overloading/A.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="3HZ9BkclpH0p22xNip1ccB2JaRe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51274663-73a9-4c7d-b3b6-9e7533379983" name="Changes" comment="" />
+      <created>1786064594295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786064594295</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/defaultConstructors/Client.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/designPatterns/builder/Client.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/designPatterns/prototype/Client.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="st.phoneNumber" />
+        <watch expression="st.phoneNumber" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
