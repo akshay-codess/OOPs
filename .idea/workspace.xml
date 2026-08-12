@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51274663-73a9-4c7d-b3b6-9e7533379983" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/AndroidUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Flutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/IOSUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/SupportedPlatforms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/UIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/buttons/AndroidButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/buttons/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/buttons/IOSButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/dropdowns/AndroidDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/dropdowns/Dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/dropdowns/IOSDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/menus/AndroidMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/menus/IOSMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/menus/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/UIFactoryFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Flutter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Flutter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
