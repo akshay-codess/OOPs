@@ -2,34 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51274663-73a9-4c7d-b3b6-9e7533379983" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessModifiersCheck/StudentChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultConstructors/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/defaultConstructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/builder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/IntelligentStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/prototype/StudentRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/DoubleCheckLocking/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/EagerLoading/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPatterns/singleton/singleThreaded/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inhertance/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inhertance/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inhertance/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intoToOop/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/intoToOop/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overloading/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/AndroidUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/Flutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/IOSUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/SupportedPlatforms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/UIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/buttons/AndroidButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/buttons/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/buttons/IOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/dropdowns/AndroidDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/dropdowns/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/dropdowns/IOSDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/menus/AndroidMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/menus/IOSMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designPatterns/abstractFactory/components/menus/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +27,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -58,12 +48,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -110,6 +101,7 @@
       <configuration name="Application">
         <watch expression="st.phoneNumber" />
         <watch expression="st.phoneNumber" />
+        <watch expression="((IntelligentStudent)devdutt).averageBatchPsp" custom="designPatterns.prototype.IntelligentStudent" />
       </configuration>
     </watches-manager>
   </component>
